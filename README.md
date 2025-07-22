@@ -1,5 +1,8 @@
 # Dev DB's
 
-## Avalible
+## Avalible DB's
+
 1. Mongo DB wiht MongoExpress to view and alter
-`./mongo_start.sh`
+```bash
+./mongo_start.sh
+```
